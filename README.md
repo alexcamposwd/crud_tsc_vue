@@ -28,7 +28,7 @@ O estudo é baseado na execução de um CRUD tipo Todo-List utilizando Typescrip
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white )
 ![Javascript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Vue.JS]( https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
-![ts](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+![Typescript]( https://img.shields.io/badge/TS-Typescript-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.JS]( https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB]( https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
